@@ -68,13 +68,11 @@ Follow these steps to run the project locally:
 
 ---
 
-## 📸 Screenshot (Optional)
 
-*Add a screenshot of your app here*
 
-```md
+
 <img width="2845" height="1451" alt="Screenshot 2026-01-09 205527" src="https://github.com/user-attachments/assets/c1bef4cd-33e4-43c9-a2a6-113af962ae0e" />
-```
+
 
 ---
 
