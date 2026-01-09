@@ -1,16 +1,103 @@
-# React + Vite
+# React Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **React-based Counter Application** that demonstrates the fundamentals of React such as components, state management, and event handling. This project is ideal for beginners who want hands-on practice with React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* Increment the counter value
+* Decrement the counter value
+* Reset the counter to zero
+* Clean and minimal UI
+* Built using modern React (functional components & hooks)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React** (JavaScript library for building user interfaces)
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS3** (optional styling)
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/your-username/react-counter-app.git
+   ```
+
+2. **Navigate to the project directory**
+
+   ```bash
+   cd react-counter-app
+   ```
+
+3. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+
+   ```bash
+   npm start
+   ```
+
+5. Open your browser and go to:
+
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+
+## 🧠 How It Works
+
+* The counter value is stored using the `useState` hook.
+* Button click events update the state.
+* When state changes, React automatically re-renders the UI.
+
+---
+
+## 📸 Screenshot (Optional)
+
+*Add a screenshot of your app here*
+
+```md
+<img width="2845" height="1451" alt="Screenshot 2026-01-09 205527" src="https://github.com/user-attachments/assets/c1bef4cd-33e4-43c9-a2a6-113af962ae0e" />
+```
+
+---
+
+
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch (`feature/new-feature`)
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+
+
+Happy Coding! 😄
